@@ -1,0 +1,8 @@
+Passo a passo:
+
+bibliotecas a serem instaladas:
+	pip install flask
+	pip install tensorflow
+se necessario:
+	python -m pip install --upgrade pip
+
